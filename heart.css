@@ -1,0 +1,28 @@
+.ek,.do{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin: 50px 0 0 100px;
+    border-radius: 50%;
+    
+}
+.heart{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 120px;
+    left: 600px;
+}
+.ek{
+    position: absolute;
+    left: 430px;
+    bottom: 300px;
+}
+.do{
+    position: absolute;
+    right: 410px;
+    bottom: 300px;
+}
